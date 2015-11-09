@@ -1,3 +1,6 @@
+Act 1; Scene 1
+
+	Enter stage left, E and P hand in hand
 E: I still love you pluto
 P: I love you too E
 
@@ -5,3 +8,5 @@ P: Roses are red violets are blue...
 P: So is pluto and pluto loves you
 
 E: Oh Pluto you're definately big enough for me! 
+
+END
