@@ -16,5 +16,7 @@ for element in planets_tree.iter(tag='moon'): #finds and prints information abou
 
 	print element.attrib
 
-
+print "Length of Year" # to find the information in between the keys which holds text information
+for element in planets_tree.iter(tag='period'):
+    print element.text
 
